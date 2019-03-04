@@ -33,8 +33,6 @@
 
 .env.production.local
 
-secret.js*
-
 
 npm-debug.log*
 
